@@ -1,5 +1,5 @@
 close all; clear all; clc;
-cd D:\ETH\Matlab\SpringMassEnergy\share_110319
+cd .%D:\ETH\Matlab\SpringMassEnergy\share_110319
 %path(path,'..\scripts\')
 
 N = 150; %120;
